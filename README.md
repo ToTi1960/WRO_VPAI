@@ -1,2 +1,2 @@
 # WRO_VPAI
- WRO comptition
+ WRO competition
